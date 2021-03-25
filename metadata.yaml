@@ -1,5 +1,8 @@
 _repo: Mignon-or-Bootles-Baby_64603
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64603-h/images/cover.jpg
 creator:
   author:
     agent_name: Winter, John Strange
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6135
     wikipedia: https://en.wikipedia.org/wiki/John_Strange_Winter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64603#Mignon-or-Bootles-Baby
 gutenberg_issued: '2021-02-21'
 gutenberg_type: Text
 identifiers:
